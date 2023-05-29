@@ -1,2 +1,3 @@
 location = "North Europe"
-rgname   = "rgname123"
+rgname   = "rgnamess"
+
