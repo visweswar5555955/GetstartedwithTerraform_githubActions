@@ -2,7 +2,7 @@ provider "azurerm" {
   features {}
 }
 
-resource "azurerm_resource_group" "vmrg" {
+resource "azurerm_resource_group" "vmjsdlfjsdlfjsdlrg" {
   name     = var.rgname
   location = var.location
 }
